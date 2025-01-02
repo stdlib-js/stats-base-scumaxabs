@@ -6,12 +6,23 @@
 
 ## Unreleased (2025-01-02)
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`604d9b5`](https://github.com/stdlib-js/stdlib/commit/604d9b5a2c932d701b53cee0845c1309a0a2e1f9) - remove unused deps and fix indentation
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`604d9b5`](https://github.com/stdlib-js/stdlib/commit/604d9b5a2c932d701b53cee0845c1309a0a2e1f9) - **fix:** remove unused deps and fix indentation _(by Athan Reines)_
 -   [`dbb2756`](https://github.com/stdlib-js/stdlib/commit/dbb27568ed7d5f00d6edc28f189bfd2d09af09ff) - **refactor:** update `stats/base/scumaxabs` native addon from C++ to C [(#4409)](https://github.com/stdlib-js/stdlib/pull/4409) _(by Vivek maurya)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
