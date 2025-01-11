@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`859e486`](https://github.com/stdlib-js/stdlib/commit/859e4866f3eb237fbbfe4f156d52e429ae8ebe9d) - **docs:** update examples in `stats/base/scumaxabs` [(#4695)](https://github.com/stdlib-js/stdlib/pull/4695) _(by Aayush Khanna)_
 -   [`0619690`](https://github.com/stdlib-js/stdlib/commit/0619690c1a69a402ba6315631506302f010d6404) - **feat:** add C ndarray interface and refactor implementation for `stats/base/scumaxabs` [(#4684)](https://github.com/stdlib-js/stdlib/pull/4684) _(by Aayush Khanna)_
 -   [`604d9b5`](https://github.com/stdlib-js/stdlib/commit/604d9b5a2c932d701b53cee0845c1309a0a2e1f9) - **fix:** remove unused deps and fix indentation _(by Athan Reines)_
 -   [`dbb2756`](https://github.com/stdlib-js/stdlib/commit/dbb27568ed7d5f00d6edc28f189bfd2d09af09ff) - **refactor:** update `stats/base/scumaxabs` native addon from C++ to C [(#4409)](https://github.com/stdlib-js/stdlib/pull/4409) _(by Vivek Maurya)_
