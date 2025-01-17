@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-14)
+## Unreleased (2025-01-17)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`fd335df`](https://github.com/stdlib-js/stdlib/commit/fd335dfa566f1b68f4561474aedd775270fb9fad) - **docs:** fix grammar typo in `stats/base/*` [(#4780)](https://github.com/stdlib-js/stdlib/pull/4780) _(by Aayush Khanna, stdlib-bot)_
 -   [`b00d9f1`](https://github.com/stdlib-js/stdlib/commit/b00d9f1064701187f48a05b9753e74ae835b0726) - **docs:** fix typing error in `repl.txt` of `stats/base/*` [(#4750)](https://github.com/stdlib-js/stdlib/pull/4750) _(by Aayush Khanna)_
 -   [`859e486`](https://github.com/stdlib-js/stdlib/commit/859e4866f3eb237fbbfe4f156d52e429ae8ebe9d) - **docs:** update examples in `stats/base/scumaxabs` [(#4695)](https://github.com/stdlib-js/stdlib/pull/4695) _(by Aayush Khanna)_
 -   [`0619690`](https://github.com/stdlib-js/stdlib/commit/0619690c1a69a402ba6315631506302f010d6404) - **feat:** add C ndarray interface and refactor implementation for `stats/base/scumaxabs` [(#4684)](https://github.com/stdlib-js/stdlib/pull/4684) _(by Aayush Khanna)_
